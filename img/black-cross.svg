@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>D3F3F073-E908-4503-93B9-53357C54797B</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="14.5 1.9 13.1 0.5 7.5 6.1 1.9 0.5 0.5 1.9 6.1 7.5 0.5 13.1 1.9 14.5 7.5 8.9 13.1 14.5 14.5 13.1 8.9 7.5"></polygon>
+    </defs>
+    <g id="Form-Fields" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.502455357">
+        <g id="Form-Fields:-Desktop" transform="translate(-1162.000000, -875.000000)">
+            <g id="Group-16" transform="translate(0.000000, 807.000000)">
+                <g id="Icon-/-Close-/-Filled" transform="translate(1162.000000, 68.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <g id="✱-/-Color-/-Icons-/-Selected-/-On-Surface-/-Inactive" mask="url(#mask-2)" fill="#333333" fill-rule="evenodd">
+                        <rect id="Rectangle" x="0" y="0" width="15" height="15"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

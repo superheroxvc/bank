@@ -1,0 +1,23 @@
+.Twilio-MessageBubble-Body span {
+    text-decoration: underline  !important;
+    font-weight:bold !important;
+}
+
+.Twilio-MessageBubble-Body {
+    padding: 0.1em;
+}
+
+.Twilio-MessageBubble-Body button {
+    text-decoration: underline  !important;
+    font-weight:bold !important;
+    background: none!important;
+    border: none;
+    padding: 0!important;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    text-align: left;
+}
+
+.Twilio-MessageBubble-Body a {
+    text-decoration: underline  !important;
+}

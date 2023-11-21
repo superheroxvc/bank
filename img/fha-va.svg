@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs>
+    <style>.cls-1{fill:none;stroke:#24356f;stroke-linejoin:round;}.cls-2{fill:#24356f;}</style>
+  </defs>
+  <title>Web Flyer Icons RBFCU Homepage</title>
+  <polygon class="cls-1" points="47.37 21.44 33.45 31.34 33.45 27.11 26.3 27.11 26.3 36.25 17.23 42.48 20.11 46.7 24.96 46.7 24.96 70.14 70.75 70.14 70.75 46.7 74.83 46.7 77.51 42.46 47.37 21.44" />
+  <path class="cls-2" d="M39.31,45H34.75v4.8h-2V38.47H40v1.59H34.75v3.37h4.56Z" />
+  <path class="cls-2" d="M50.53,49.8h-2v-5H43.5v5h-2V38.47h2v4.71h5.07V38.47h2Z" />
+  <path class="cls-2" d="M59.33,47.16H55L54,49.8H52l4.28-11.33H58L62.31,49.8H60.26ZM55.5,45.57h3.28l-1.64-4.7Z" />
+  <path class="cls-2" d="M42,63.21l2.88-8.86h2.16L43,65.67h-1.9L37,54.35h2.15Z" />
+  <path class="cls-2" d="M54.09,63H49.7l-.91,2.63h-2L51,54.35h1.76l4.29,11.32H55Zm-3.83-1.59h3.28l-1.64-4.7Z" />
+  <polyline class="cls-1" points="21.87 42.97 47.35 25.03 72.83 42.65" />
+</svg>
